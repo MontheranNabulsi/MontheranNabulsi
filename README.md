@@ -1,6 +1,6 @@
 # About Me
 
-##  Tools and 
+##  Tools  
 
 <table>
 <tr>
